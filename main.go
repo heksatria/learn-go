@@ -1,0 +1,22 @@
+package main
+
+func main() {
+	// fmt.Println("Hello, World!")
+	// latVariable()
+	// latAlias() 
+	// latConst()
+	// latOperator()
+	// latJenisOperator()
+	// latIF()
+	// latIFShortStt()
+	// latSwitch()
+	// latSwitch2()
+	// latSwitch3()
+	// latLoop1()
+	// latLoop2()
+	// latLoop3()
+	// fmt.Println(divide(10, 3))
+	// fmt.Println(getCoordinates())
+	// latArray()
+	latArray2()
+}
