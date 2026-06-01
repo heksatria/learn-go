@@ -1,3 +1,3 @@
-module learn_go_basic.go
+module learn-go-basic
 
-go 1.26.3
+go 1.22.12

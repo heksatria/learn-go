@@ -5,6 +5,7 @@ func main() {
 	// latVariable()
 	// latAlias() 
 	// latConst()
+	latIO_output()
 	// latOperator()
 	// latJenisOperator()
 	// latIF()
@@ -18,5 +19,5 @@ func main() {
 	// fmt.Println(divide(10, 3))
 	// fmt.Println(getCoordinates())
 	// latArray()
-	latArray2()
+	// latArray2()
 }
