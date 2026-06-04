@@ -25,7 +25,7 @@ func latSlice(){
 	slice2 = append(slice2,"kelapa3")
 	slice2 = append(slice2,"kelapa4")
 	fmt.Println(slice2)
-	fmt.Println(cap((slice2))
+	fmt.Println(cap(slice2))
 
 
 }
