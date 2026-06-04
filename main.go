@@ -22,5 +22,7 @@ func main() {
 	// latArray2()
 	// latSlice1()
 	// latSlice2()
-	latSlice3()
+	// latSlice3()
+	// latSlice4()
+	latSlice5()
 }

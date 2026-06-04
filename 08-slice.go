@@ -74,3 +74,30 @@ func latSlice3(){
 	fmt.Println(cap(sayur)) //10
 	fmt.Println(sayur) //["bayam", "", "", "kangkung","jamur","nangka"]
 }
+
+//copy slice
+func latSlice4(){
+	var sumber_buah = []string{"jambu","pir","jeruk"}
+	var tampung_buah = make([]string,len(sumber_buah))
+	copy(tampung_buah,sumber_buah)
+	tampung_buah[0]="nangka"
+
+	fmt.Println(sumber_buah)
+	fmt.Println(tampung_buah)
+}
+
+//Slice 2D
+func latSlice5(){
+	matriks := [][]int{
+		{1,2,3},
+		{4,5,6},
+		{7,8,9},
+	}
+
+	for _,val:=range matriks{
+		for _,item:=range val{
+			fmt.Printf(" %d ",item)
+		}
+		fmt.Println()
+	}
+}
