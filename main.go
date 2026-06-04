@@ -20,5 +20,7 @@ func main() {
 	// fmt.Println(getCoordinates())
 	// latArray()
 	// latArray2()
-	latSlice()
+	// latSlice1()
+	// latSlice2()
+	latSlice3()
 }
