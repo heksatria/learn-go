@@ -1,5 +1,4 @@
 package main
-import "fmt"
 
 func main() {
 	// fmt.Println("Hello, World!")
@@ -28,5 +27,13 @@ func main() {
 	// latSlice5()
 	// latLoop4()
 	// latLoop5()
-	fmt.Println(getCoordinates(60,100))
+	// fmt.Println(getCoordinates(60,100))
+	// fname, lname := getName()
+	// fmt.Println(fname, lname)
+	// fname, _ := getName()
+	// fmt.Println(fname)
+	// fmt.Println(persegi(10,5))
+	// function06()
+	// function06b()
+	function06c()
 }
