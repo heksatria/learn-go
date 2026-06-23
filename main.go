@@ -3,7 +3,7 @@ package main
 func main() {
 	// fmt.Println("Hello, World!")
 	// latVariable()
-	// latAlias() 
+	// latAlias()
 	// latConst()
 	// latIO_output()
 	// latOperator()
@@ -27,6 +27,7 @@ func main() {
 	// latSlice5()
 	// latLoop4()
 	// latLoop5()
+	latLoop6()
 	// fmt.Println(getCoordinates(60,100))
 	// fname, lname := getName()
 	// fmt.Println(fname, lname)
@@ -35,5 +36,8 @@ func main() {
 	// fmt.Println(persegi(10,5))
 	// function06()
 	// function06b()
-	function06c()
+	// function06c()
+	// showClosure()
+	// shortstt()
+	// cekOS()
 }

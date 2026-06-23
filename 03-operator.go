@@ -41,7 +41,7 @@ func latJenisOperator() {
 	fmt.Println(5 != 3) // true
 	fmt.Println(5 > 3) // true
 	fmt.Println(5 < 3) // false
-	fmt.Println(5 >= 5) // true
+	fmt.Println(5 > 5) // false
 	fmt.Println(5 <= 4) // false
 
 	// Operator Logika
