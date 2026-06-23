@@ -23,9 +23,8 @@ import "fmt"
     }
 
     // function with named return value
-    func getCoordinates() (x, y int) {
-        x = 10
-        y = 20
-        return
+    func getCoordinates(kjg,  lb int) int {
+        keliling:=2*kjg+2*lb 
+        return keliling
     }
     

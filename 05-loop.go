@@ -31,3 +31,15 @@ func latLoop3(){
 	}
 }
 
+func latLoop4(){
+	fruits := []string{"nangka","pir","jambu"}
+	for index,fruit :=range fruits{
+		fmt.Println("Index ",index," =",fruit)
+	}
+}
+func latLoop5(){
+	fruits := []string{"nangka","pir","jambu"}
+	for _,fruit :=range fruits{
+		fmt.Println("Buah ",fruit)
+	}
+}
